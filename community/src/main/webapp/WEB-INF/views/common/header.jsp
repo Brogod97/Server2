@@ -8,8 +8,8 @@
     	pageContext.request.contextPath
      --> 
     <section>
-        <a href="${contextPath}">
-            <img src="${contextPath}/resources/images/logo.jpg" id="home-logo">
+        <a href=" ${contextPath}">
+            <img src=" ${contextPath}/resources/images/logo.jpg" id="home-logo">
         </a>
     </section>
 
